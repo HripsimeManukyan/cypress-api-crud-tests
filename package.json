@@ -1,0 +1,18 @@
+{
+  "name": "cypress-api-intercept-gorest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cypress": "^14.3.3"
+  },
+  "devDependencies": {
+    "cypress-dotenv": "^3.0.1",
+    "mochawesome": "^7.1.3"
+  }
+}
