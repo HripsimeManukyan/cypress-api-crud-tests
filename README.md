@@ -2,9 +2,9 @@
 
 [![Cypress](https://img.shields.io/badge/Cypress-Testing-9cf?logo=cypress)](https://www.cypress.io/)
 [![JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-yellow?logo=javascript)]
-[![Portfolio Badge](https://img.shields.io/badge/My_Portfolio-Visit_Now-green?logo=notion&style=for-the-badge)](https://tasteful-grape-0c4.notion.site/Hripsime-QA-Engineer-Portfolio-1f12cb0861fc80819f14d936f47643d5)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hripsime-blue?logo=linkedin)](https://www.linkedin.com/in/hripsime-manukyan-0336901a0/)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)](https://github.com/HripsimeManukyan)
+[![Portfolio Badge](https://img.shields.io/badge/My_Portfolio-Visit_Now-green?logo=notion&style=for-the-badge)](https://tasteful-grape-0c4.notion.site/Hripsime-QA-Engineer-Portfolio-1f12cb0861fc80819f14)
 
 ---
 
